@@ -15,5 +15,5 @@ HITsz计科夏季学期CPU设计
 :sparkles:**由于每一届要求的汇编程序不同，对外设的要求也不同，如果有没有实现的外设，请自行添加**  
 :sparkles:流水线cpu使用**forward**和**stall**方法处理数据冒险（stall处理load-use冒险），对于控制冒险进行分支预测，预测不跳转  
 :sparkles:完成myCPU后应该在linux环境下运行学校给你的trace模型来验证你的CPU逻辑，此时Soc和Bridge只需要接DRAM和IROM模块，其余物理外设不需要，SocAndBridgeForTrace下的两个verilog文件删除了其余外设接口，可直接使用  
-:sparkles:外设接口地址和引脚约束文件适用于**minisys**开发板**XC7A100TFGG484-1**
+:sparkles:外设接口地址和引脚约束文件适用于**minisys**开发板**XC7A100TFGG484-1**  
 :sparkles:*下板时IROM核和DRAM核需要链接你自己汇编程序的coe文件*

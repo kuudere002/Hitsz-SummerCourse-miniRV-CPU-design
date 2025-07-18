@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/Experiment Files/CPU_desigin/LAB2/proj_miniRV_minisys/proj_single_cycle/proj_single_cycle.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/Experiment Files/CPU_desigin/LAB2/proj_miniRV_minisys/proj_single_cycle/proj_single_cycle.srcs/sim_1/new/cpuclk_sim.v,1751438217,verilog,,,,cpuclk_sim,,,../../../../proj_single_cycle.srcs/sources_1/ip/cpuclk;../../../../proj_single_cycle.srcs/sources_1/new,,,,,
+E:/Experiment Files/CPU_desigin/LAB2/proj_miniRV_minisys/proj_single_cycle/proj_single_cycle.srcs/sources_1/ip/cpuclk/cpuclk.v,1751438100,verilog,,E:/Experiment Files/CPU_desigin/LAB2/proj_miniRV_minisys/proj_single_cycle/proj_single_cycle.srcs/sim_1/new/cpuclk_sim.v,,cpuclk,,,../../../../proj_single_cycle.srcs/sources_1/ip/cpuclk;../../../../proj_single_cycle.srcs/sources_1/new,,,,,
+E:/Experiment Files/CPU_desigin/LAB2/proj_miniRV_minisys/proj_single_cycle/proj_single_cycle.srcs/sources_1/ip/cpuclk/cpuclk_clk_wiz.v,1751438099,verilog,,E:/Experiment Files/CPU_desigin/LAB2/proj_miniRV_minisys/proj_single_cycle/proj_single_cycle.srcs/sources_1/ip/cpuclk/cpuclk.v,,cpuclk_clk_wiz,,,../../../../proj_single_cycle.srcs/sources_1/ip/cpuclk;../../../../proj_single_cycle.srcs/sources_1/new,,,,,

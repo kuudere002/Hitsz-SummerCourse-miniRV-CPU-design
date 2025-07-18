@@ -1,4 +1,4 @@
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/baf2e915-826c-4860-a001-954d5b22af44" /># Hitsz-SummerCourse-miniRV-CPU-design
+# Hitsz-SummerCourse-miniRV-CPU-design
 Single-cycle and pipelined CPU based on 24 RISC-V instructions  
 HITsz计科夏季学期CPU设计  
 :heart:仅供参考，如果对你的思考有帮助，请点个star:smile:    
